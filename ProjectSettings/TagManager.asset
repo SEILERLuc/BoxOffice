@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Block
+  - Crate
+  - Enemy
+  - Life
+  - Heart1
+  - Heart2
+  - Heart3
+  - Checkpoint
+  - Interactible
+  - Music
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 33581687
+    locked: 0
+  - name: Foreground
+    uniqueID: 3810532157
+    locked: 0
+  - name: Entities
+    uniqueID: 3226418711
+    locked: 0
+  - name: UI
+    uniqueID: 701899223
+    locked: 0
